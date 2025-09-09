@@ -16,7 +16,7 @@ namespace Internet_Banking_System.Entites
         [Range(0.01, double.MaxValue)]
         public decimal Amount { get; set; }
         [Required]
-        public DateTime Date { get; set; } = DateTime.Now;
+        public DateTime Date { get; set; } = DateTime.UtcNow;
         [Required]
         public TransactionType Type { get; set; }
 

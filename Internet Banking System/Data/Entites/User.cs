@@ -1,17 +1,15 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using Microsoft.AspNetCore.Identity;
 
 namespace Internet_Banking_System.Entites
 {
-    public class User
+    public class User:IdentityUser
     {
-        public int Id { get; set; }
         [Required]
         [MaxLength(100)]
-        public string Name { get; set; } = string.Empty;
-        [Required]
-        [EmailAddress]
-        public string Email { get; set; } = string.Empty;
+        public string FullName { get; set; } = string.Empty;
 
+        public DateTime CreatedDate { get; set; } = DateTime.UtcNow;
 
         public List<Account> Accounts { get; set; } = new List<Account>();
     }

@@ -1,24 +1,34 @@
 ﻿
 using Internet_Banking_System.Entites;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace Data
 {
     
-        public class InternetBankingContext : DbContext
+        public class InternetBankingContext : IdentityDbContext<User>
         {
             public InternetBankingContext(DbContextOptions<InternetBankingContext> options)
                 : base(options)
             {
             }
 
-            public DbSet<User> Users { get; set; }
             public DbSet<Account> Accounts { get; set; }
             public DbSet<Transaction> Transactions { get; set; }
 
             protected override void OnModelCreating(ModelBuilder modelBuilder)
             {
                 base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<User>(entity =>
+            {
+                entity.ToTable("Users");
+                });
+            modelBuilder.Entity<IdentityRole>(entity =>
+                {
+                    entity.ToTable("Roles");
+                });
 
                 // Account Number Unique
                 modelBuilder.Entity<Account>()

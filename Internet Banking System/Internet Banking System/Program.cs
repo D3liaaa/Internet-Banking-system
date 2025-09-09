@@ -1,5 +1,8 @@
 
 using Data;
+using Internet_Banking_System.Entites;
+using InternetBanking.Infrastructure;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace Internet_Banking_System
@@ -24,6 +27,23 @@ namespace Internet_Banking_System
             {
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
+
+            builder.Services.AddIdentity<User, IdentityRole>(options =>
+            {
+                options.User.RequireUniqueEmail = true;
+                options.Password.RequireNonAlphanumeric = false;
+                options.Password.RequireUppercase = false;
+                options.Password.RequireLowercase = false;
+                options.Password.RequireDigit = false;
+                options.Password.RequiredLength = 6;
+            })
+                .AddEntityFrameworkStores<InternetBankingContext>()
+                .AddDefaultTokenProviders();
+            #endregion
+
+            #region Debendency Injection
+
+            builder.Services.addInfrastructureDependecies();
 
             #endregion
 
