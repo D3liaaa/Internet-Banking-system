@@ -27,6 +27,7 @@ namespace Internet_Banking_System.Entites
 
         public int? TargetAccountId { get; set; }
         public Account? TargetAccount { get; set; }
+        public string? Description { get; set; }
     }
 
 }

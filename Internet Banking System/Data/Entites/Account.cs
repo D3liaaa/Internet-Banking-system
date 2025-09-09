@@ -23,6 +23,8 @@ namespace Internet_Banking_System.Entites
         public DateTime CreatedDate { get; set; } = DateTime.UtcNow;
         public AccountType Type { get; set; }
         public bool IsActive { get; set; } = true;
+        public bool IsFrozen { get; set; } = false;
+
 
         //foreign Key
         public string UserId {  get; set; }

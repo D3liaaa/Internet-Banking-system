@@ -9,13 +9,13 @@ namespace InternetBanking.Infrastructure.InfrastructureBase
         Task<IEnumerable<T>> GetAllAsync();
 
         // Get an entity by its ID
-        Task<T> GetByIdAsync(int id);
+        Task<T> GetByIdAsync(int id, CancellationToken ct);
 
         // Add a new entity
-        Task AddAsync(T entity);
+        Task AddAsync(T entity, CancellationToken ct);
 
         // Update an existing entity
-        Task UpdateAsync(T entity);
+        Task UpdateAsync(T entity, CancellationToken ct);
 
         // Delete an entity
         Task DeleteAsync(T entity);

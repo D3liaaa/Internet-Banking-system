@@ -26,7 +26,15 @@ namespace InternetBanking.Infrastructure.Repositories
                          .Where(t => t.AccountId == accountId || t.TargetAccountId == accountId)
                          .AsNoTracking()
                          .ToListAsync();
-        } 
+        }
+
+        public async Task<List<Transaction>> GetStatementAsync(int accountId, DateTime from, DateTime to, CancellationToken ct = default)
+        {
+            return await _transactionSet
+                           .Where(t => t.AccountId == accountId && t.Date >= from && t.Date <= to)
+                           .OrderByDescending(t => t.Date)
+                           .ToListAsync(ct);
+        }
         #endregion
     }
 }

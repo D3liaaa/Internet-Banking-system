@@ -29,6 +29,13 @@ namespace InternetBanking.Infrastructure.Repositories
             // return await _context.Set<Product>().ToListAsync();
             // return await _context.Product.AsQueryable().ToListAsync();
         }
+
+        public async Task<Account?> GetByAccountNumberAsync(string accountNumber, CancellationToken ct = default)
+        {
+            return await _accountSet
+                           .FirstOrDefaultAsync(a => a.AccountNumber == accountNumber, ct);
+        }
+
         public async Task<Account?> GetByIdWithTransactionsAsync(int id)
         {
             return await _accountSet
@@ -37,7 +44,16 @@ namespace InternetBanking.Infrastructure.Repositories
                          .FirstOrDefaultAsync(a => a.Id == id);
         }
 
+        public async Task<List<Account>> GetByUserIdAsync(string userId, CancellationToken ct = default)
+        {
+            return await _accountSet
+                            .Where(a => a.UserId == userId)
+                            .ToListAsync(ct);
+        }
+
         #endregion
 
     }
 }
+
+
