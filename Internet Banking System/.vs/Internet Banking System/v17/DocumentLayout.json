@@ -3,60 +3,64 @@
   "WorkspaceRootPath": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{79AB3E78-B609-4215-9DE9-E6C7A8955B43}|InternetBanking.Service\\InternetBanking.Service.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\internetbanking.service\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AB3E78-B609-4215-9DE9-E6C7A8955B43}|InternetBanking.Service\\InternetBanking.Service.csproj|solutionrelative:internetbanking.service\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AB3E78-B609-4215-9DE9-E6C7A8955B43}|InternetBanking.Service\\InternetBanking.Service.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\internetbanking.service\\abstract\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AB3E78-B609-4215-9DE9-E6C7A8955B43}|InternetBanking.Service\\InternetBanking.Service.csproj|solutionrelative:internetbanking.service\\abstract\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AB3E78-B609-4215-9DE9-E6C7A8955B43}|InternetBanking.Service\\InternetBanking.Service.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\internetbanking.service\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AB3E78-B609-4215-9DE9-E6C7A8955B43}|InternetBanking.Service\\InternetBanking.Service.csproj|solutionrelative:internetbanking.service\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{79AB3E78-B609-4215-9DE9-E6C7A8955B43}|InternetBanking.Service\\InternetBanking.Service.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\internetbanking.service\\implementation\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79AB3E78-B609-4215-9DE9-E6C7A8955B43}|InternetBanking.Service\\InternetBanking.Service.csproj|solutionrelative:internetbanking.service\\implementation\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\Migrations\\20250909110716_AddDescriptionToTransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InternetBanking.Infrastructure\\Migrations\\20250909110716_AddDescriptionToTransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B225D3BB-9FB8-4EF0-9DCA-91FF7A47B10C}|Data\\Data.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\data\\entites\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B225D3BB-9FB8-4EF0-9DCA-91FF7A47B10C}|Data\\Data.csproj|solutionrelative:data\\entites\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1265B168-63D0-40E5-8A4C-25E3BAB6A8F5}|InternetBanking.Infrastructure\\InternetBanking.Infrastructure.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\internetbanking.infrastructure\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1265B168-63D0-40E5-8A4C-25E3BAB6A8F5}|InternetBanking.Infrastructure\\InternetBanking.Infrastructure.csproj|solutionrelative:internetbanking.infrastructure\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1265B168-63D0-40E5-8A4C-25E3BAB6A8F5}|InternetBanking.Infrastructure\\InternetBanking.Infrastructure.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\internetbanking.infrastructure\\abstract\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1265B168-63D0-40E5-8A4C-25E3BAB6A8F5}|InternetBanking.Infrastructure\\InternetBanking.Infrastructure.csproj|solutionrelative:internetbanking.infrastructure\\abstract\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79AB3E78-B609-4215-9DE9-E6C7A8955B43}|InternetBanking.Service\\InternetBanking.Service.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\internetbanking.service\\abstract\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79AB3E78-B609-4215-9DE9-E6C7A8955B43}|InternetBanking.Service\\InternetBanking.Service.csproj|solutionrelative:internetbanking.service\\abstract\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1265B168-63D0-40E5-8A4C-25E3BAB6A8F5}|InternetBanking.Infrastructure\\InternetBanking.Infrastructure.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\internetbanking.infrastructure\\infrastructurebase\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1265B168-63D0-40E5-8A4C-25E3BAB6A8F5}|InternetBanking.Infrastructure\\InternetBanking.Infrastructure.csproj|solutionrelative:internetbanking.infrastructure\\infrastructurebase\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1265B168-63D0-40E5-8A4C-25E3BAB6A8F5}|InternetBanking.Infrastructure\\InternetBanking.Infrastructure.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\internetbanking.infrastructure\\abstract\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1265B168-63D0-40E5-8A4C-25E3BAB6A8F5}|InternetBanking.Infrastructure\\InternetBanking.Infrastructure.csproj|solutionrelative:internetbanking.infrastructure\\abstract\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B225D3BB-9FB8-4EF0-9DCA-91FF7A47B10C}|Data\\Data.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\data\\entites\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B225D3BB-9FB8-4EF0-9DCA-91FF7A47B10C}|Data\\Data.csproj|solutionrelative:data\\entites\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79AB3E78-B609-4215-9DE9-E6C7A8955B43}|InternetBanking.Service\\InternetBanking.Service.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\internetbanking.service\\implementation\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79AB3E78-B609-4215-9DE9-E6C7A8955B43}|InternetBanking.Service\\InternetBanking.Service.csproj|solutionrelative:internetbanking.service\\implementation\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1265B168-63D0-40E5-8A4C-25E3BAB6A8F5}|InternetBanking.Infrastructure\\InternetBanking.Infrastructure.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\internetbanking.infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1265B168-63D0-40E5-8A4C-25E3BAB6A8F5}|InternetBanking.Infrastructure\\InternetBanking.Infrastructure.csproj|solutionrelative:internetbanking.infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79AB3E78-B609-4215-9DE9-E6C7A8955B43}|InternetBanking.Service\\InternetBanking.Service.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\internetbanking.service\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AB3E78-B609-4215-9DE9-E6C7A8955B43}|InternetBanking.Service\\InternetBanking.Service.csproj|solutionrelative:internetbanking.service\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79AB3E78-B609-4215-9DE9-E6C7A8955B43}|InternetBanking.Service\\InternetBanking.Service.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\internetbanking.service\\abstract\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79AB3E78-B609-4215-9DE9-E6C7A8955B43}|InternetBanking.Service\\InternetBanking.Service.csproj|solutionrelative:internetbanking.service\\abstract\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC2B7023-DFBE-4CDC-BA60-D234B3464A72}|InternetBanking.core\\InternetBanking.core.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\internetbanking.core\\features\\auth\\command\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2B7023-DFBE-4CDC-BA60-D234B3464A72}|InternetBanking.core\\InternetBanking.core.csproj|solutionrelative:internetbanking.core\\features\\auth\\command\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1265B168-63D0-40E5-8A4C-25E3BAB6A8F5}|InternetBanking.Infrastructure\\InternetBanking.Infrastructure.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\internetbanking.infrastructure\\infrastructurebase\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1265B168-63D0-40E5-8A4C-25E3BAB6A8F5}|InternetBanking.Infrastructure\\InternetBanking.Infrastructure.csproj|solutionrelative:internetbanking.infrastructure\\infrastructurebase\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC2B7023-DFBE-4CDC-BA60-D234B3464A72}|InternetBanking.core\\InternetBanking.core.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\internetbanking.core\\internetbanking.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC2B7023-DFBE-4CDC-BA60-D234B3464A72}|InternetBanking.core\\InternetBanking.core.csproj|solutionrelative:internetbanking.core\\internetbanking.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2B7023-DFBE-4CDC-BA60-D234B3464A72}|InternetBanking.core\\InternetBanking.core.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\internetbanking.core\\features\\auth\\queries\\responses\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2B7023-DFBE-4CDC-BA60-D234B3464A72}|InternetBanking.core\\InternetBanking.core.csproj|solutionrelative:internetbanking.core\\features\\auth\\queries\\responses\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2B7023-DFBE-4CDC-BA60-D234B3464A72}|InternetBanking.core\\InternetBanking.core.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\internetbanking.core\\features\\auth\\command\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2B7023-DFBE-4CDC-BA60-D234B3464A72}|InternetBanking.core\\InternetBanking.core.csproj|solutionrelative:internetbanking.core\\features\\auth\\command\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624BF0E8-BACD-43D0-A1B7-C270BC470B73}|Internet Banking System\\Internet Banking System.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\internet banking system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{624BF0E8-BACD-43D0-A1B7-C270BC470B73}|Internet Banking System\\Internet Banking System.csproj|solutionrelative:internet banking system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{624BF0E8-BACD-43D0-A1B7-C270BC470B73}|Internet Banking System\\Internet Banking System.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\internet banking system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{624BF0E8-BACD-43D0-A1B7-C270BC470B73}|Internet Banking System\\Internet Banking System.csproj|solutionrelative:internet banking system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B225D3BB-9FB8-4EF0-9DCA-91FF7A47B10C}|Data\\Data.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\data\\entites\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B225D3BB-9FB8-4EF0-9DCA-91FF7A47B10C}|Data\\Data.csproj|solutionrelative:data\\entites\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B225D3BB-9FB8-4EF0-9DCA-91FF7A47B10C}|Data\\Data.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\data\\entites\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B225D3BB-9FB8-4EF0-9DCA-91FF7A47B10C}|Data\\Data.csproj|solutionrelative:data\\entites\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1265B168-63D0-40E5-8A4C-25E3BAB6A8F5}|InternetBanking.Infrastructure\\InternetBanking.Infrastructure.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\internetbanking.infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1265B168-63D0-40E5-8A4C-25E3BAB6A8F5}|InternetBanking.Infrastructure\\InternetBanking.Infrastructure.csproj|solutionrelative:internetbanking.infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{624BF0E8-BACD-43D0-A1B7-C270BC470B73}|Internet Banking System\\Internet Banking System.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\internet banking system\\internet banking system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -89,6 +93,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{1265B168-63D0-40E5-8A4C-25E3BAB6A8F5}|InternetBanking.Infrastructure\\InternetBanking.Infrastructure.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\internetbanking.infrastructure\\migrations\\20250831100933_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1265B168-63D0-40E5-8A4C-25E3BAB6A8F5}|InternetBanking.Infrastructure\\InternetBanking.Infrastructure.csproj|solutionrelative:internetbanking.infrastructure\\migrations\\20250831100933_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1265B168-63D0-40E5-8A4C-25E3BAB6A8F5}|InternetBanking.Infrastructure\\InternetBanking.Infrastructure.csproj|d:\\my-git hub\\internet-banking-system\\internet banking system\\internetbanking.infrastructure\\migrations\\20250909110716_adddescriptiontotransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1265B168-63D0-40E5-8A4C-25E3BAB6A8F5}|InternetBanking.Infrastructure\\InternetBanking.Infrastructure.csproj|solutionrelative:internetbanking.infrastructure\\migrations\\20250909110716_adddescriptiontotransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,176 +114,163 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20250909110716_AddDescriptionToTransaction.cs",
-              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\Migrations\\20250909110716_AddDescriptionToTransaction.cs",
-              "RelativeDocumentMoniker": "InternetBanking.Infrastructure\\Migrations\\20250909110716_AddDescriptionToTransaction.cs",
-              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\Migrations\\20250909110716_AddDescriptionToTransaction.cs",
-              "RelativeToolTip": "InternetBanking.Infrastructure\\Migrations\\20250909110716_AddDescriptionToTransaction.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T11:07:16.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TransactionRepository.cs",
-              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\Repositories\\TransactionRepository.cs",
-              "RelativeDocumentMoniker": "InternetBanking.Infrastructure\\Repositories\\TransactionRepository.cs",
-              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\Repositories\\TransactionRepository.cs",
-              "RelativeToolTip": "InternetBanking.Infrastructure\\Repositories\\TransactionRepository.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAAAJAAAAAAAAAA==",
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Service\\Implementation\\TransactionService.cs",
+              "RelativeDocumentMoniker": "InternetBanking.Service\\Implementation\\TransactionService.cs",
+              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Service\\Implementation\\TransactionService.cs",
+              "RelativeToolTip": "InternetBanking.Service\\Implementation\\TransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T10:35:52.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ITransactionRepository.cs",
-              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\Abstract\\ITransactionRepository.cs",
-              "RelativeDocumentMoniker": "InternetBanking.Infrastructure\\Abstract\\ITransactionRepository.cs",
-              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\Abstract\\ITransactionRepository.cs",
-              "RelativeToolTip": "InternetBanking.Infrastructure\\Abstract\\ITransactionRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T10:35:38.889Z",
+              "WhenOpened": "2025-09-11T10:42:00.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Service\\Implementation\\UserService.cs",
+              "RelativeDocumentMoniker": "InternetBanking.Service\\Implementation\\UserService.cs",
+              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Service\\Implementation\\UserService.cs",
+              "RelativeToolTip": "InternetBanking.Service\\Implementation\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T08:11:18.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Service\\Implementation\\AccountService.cs",
+              "RelativeDocumentMoniker": "InternetBanking.Service\\Implementation\\AccountService.cs",
+              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Service\\Implementation\\AccountService.cs",
+              "RelativeToolTip": "InternetBanking.Service\\Implementation\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T10:41:51.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Service\\Abstract\\IAuthService.cs",
+              "RelativeDocumentMoniker": "InternetBanking.Service\\Abstract\\IAuthService.cs",
+              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Service\\Abstract\\IAuthService.cs",
+              "RelativeToolTip": "InternetBanking.Service\\Abstract\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T08:50:26.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Service\\Abstract\\IUserService.cs",
+              "RelativeDocumentMoniker": "InternetBanking.Service\\Abstract\\IUserService.cs",
+              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Service\\Abstract\\IUserService.cs",
+              "RelativeToolTip": "InternetBanking.Service\\Abstract\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T08:06:30.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Service\\Implementation\\AuthService.cs",
+              "RelativeDocumentMoniker": "InternetBanking.Service\\Implementation\\AuthService.cs",
+              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Service\\Implementation\\AuthService.cs",
+              "RelativeToolTip": "InternetBanking.Service\\Implementation\\AuthService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T08:53:23.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.core\\Features\\Auth\\Command\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "InternetBanking.core\\Features\\Auth\\Command\\Models\\RegisterRequest.cs",
+              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.core\\Features\\Auth\\Command\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "InternetBanking.core\\Features\\Auth\\Command\\Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T11:26:33.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InternetBanking.core",
+              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.core\\InternetBanking.core.csproj",
+              "RelativeDocumentMoniker": "InternetBanking.core\\InternetBanking.core.csproj",
+              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.core\\InternetBanking.core.csproj",
+              "RelativeToolTip": "InternetBanking.core\\InternetBanking.core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-10T11:10:32.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.core\\Features\\Auth\\Queries\\Responses\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "InternetBanking.core\\Features\\Auth\\Queries\\Responses\\AuthResponse.cs",
+              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.core\\Features\\Auth\\Queries\\Responses\\AuthResponse.cs",
+              "RelativeToolTip": "InternetBanking.core\\Features\\Auth\\Queries\\Responses\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T11:31:25.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.core\\Features\\Auth\\Command\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "InternetBanking.core\\Features\\Auth\\Command\\Models\\LoginRequest.cs",
+              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.core\\Features\\Auth\\Command\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "InternetBanking.core\\Features\\Auth\\Command\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T11:28:36.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\Internet Banking System\\appsettings.json",
+              "RelativeDocumentMoniker": "Internet Banking System\\appsettings.json",
+              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\Internet Banking System\\appsettings.json",
+              "RelativeToolTip": "Internet Banking System\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-10T08:59:30.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Transaction.cs",
               "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\Data\\Entites\\Transaction.cs",
               "RelativeDocumentMoniker": "Data\\Entites\\Transaction.cs",
               "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\Data\\Entites\\Transaction.cs",
               "RelativeToolTip": "Data\\Entites\\Transaction.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowBwAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAA7wBwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T10:30:22.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TransactionService.cs",
-              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Service\\implementation\\TransactionService.cs",
-              "RelativeDocumentMoniker": "InternetBanking.Service\\implementation\\TransactionService.cs",
-              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Service\\implementation\\TransactionService.cs",
-              "RelativeToolTip": "InternetBanking.Service\\implementation\\TransactionService.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwG0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T10:17:22.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Service\\implementation\\AccountService.cs",
-              "RelativeDocumentMoniker": "InternetBanking.Service\\implementation\\AccountService.cs",
-              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Service\\implementation\\AccountService.cs",
-              "RelativeToolTip": "InternetBanking.Service\\implementation\\AccountService.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T08:53:33.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ITransactionService.cs",
-              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Service\\Abstract\\ITransactionService.cs",
-              "RelativeDocumentMoniker": "InternetBanking.Service\\Abstract\\ITransactionService.cs",
-              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Service\\Abstract\\ITransactionService.cs",
-              "RelativeToolTip": "InternetBanking.Service\\Abstract\\ITransactionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T08:11:28.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "IAccountService.cs",
-              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Service\\Abstract\\IAccountService.cs",
-              "RelativeDocumentMoniker": "InternetBanking.Service\\Abstract\\IAccountService.cs",
-              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Service\\Abstract\\IAccountService.cs",
-              "RelativeToolTip": "InternetBanking.Service\\Abstract\\IAccountService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T08:08:46.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Account.cs",
-              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\Data\\Entites\\Account.cs",
-              "RelativeDocumentMoniker": "Data\\Entites\\Account.cs",
-              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\Data\\Entites\\Account.cs",
-              "RelativeToolTip": "Data\\Entites\\Account.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T08:28:21.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IAccountRepository.cs",
-              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\Abstract\\IAccountRepository.cs",
-              "RelativeDocumentMoniker": "InternetBanking.Infrastructure\\Abstract\\IAccountRepository.cs",
-              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\Abstract\\IAccountRepository.cs",
-              "RelativeToolTip": "InternetBanking.Infrastructure\\Abstract\\IAccountRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAmwAsAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T07:02:36.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AccountRepository.cs",
-              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\Repositories\\AccountRepository.cs",
-              "RelativeDocumentMoniker": "InternetBanking.Infrastructure\\Repositories\\AccountRepository.cs",
-              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\Repositories\\AccountRepository.cs",
-              "RelativeToolTip": "InternetBanking.Infrastructure\\Repositories\\AccountRepository.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAewDoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T07:04:13.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\InfrastructureBase\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "InternetBanking.Infrastructure\\InfrastructureBase\\GenericRepository.cs",
-              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\InfrastructureBase\\GenericRepository.cs",
-              "RelativeToolTip": "InternetBanking.Infrastructure\\InfrastructureBase\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T11:13:05.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\InfrastructureBase\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "InternetBanking.Infrastructure\\InfrastructureBase\\IGenericRepository.cs",
-              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\InfrastructureBase\\IGenericRepository.cs",
-              "RelativeToolTip": "InternetBanking.Infrastructure\\InfrastructureBase\\IGenericRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T11:00:05.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\Internet Banking System\\Program.cs",
               "RelativeDocumentMoniker": "Internet Banking System\\Program.cs",
@@ -288,7 +283,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250909110716_AddDescriptionToTransaction.cs",
+              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\Migrations\\20250909110716_AddDescriptionToTransaction.cs",
+              "RelativeDocumentMoniker": "InternetBanking.Infrastructure\\Migrations\\20250909110716_AddDescriptionToTransaction.cs",
+              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\Migrations\\20250909110716_AddDescriptionToTransaction.cs",
+              "RelativeToolTip": "InternetBanking.Infrastructure\\Migrations\\20250909110716_AddDescriptionToTransaction.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T11:07:16.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\Data\\Entites\\Account.cs",
+              "RelativeDocumentMoniker": "Data\\Entites\\Account.cs",
+              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\Data\\Entites\\Account.cs",
+              "RelativeToolTip": "Data\\Entites\\Account.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA5wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T08:28:21.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "InternetBanking.Infrastructure\\Repositories\\AccountRepository.cs",
+              "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "InternetBanking.Infrastructure\\Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAewDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T07:04:13.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Internet Banking System.csproj",
               "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\Internet Banking System\\Internet Banking System.csproj",
               "RelativeDocumentMoniker": "Internet Banking System\\Internet Banking System.csproj",
@@ -301,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "InternetBanking.Infrastructure.csproj",
               "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\InternetBanking.Infrastructure.csproj",
               "RelativeDocumentMoniker": "InternetBanking.Infrastructure\\InternetBanking.Infrastructure.csproj",
@@ -314,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "20250831100933_InitialCreate.cs",
               "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\Migrations\\20250831100933_InitialCreate.cs",
               "RelativeDocumentMoniker": "InternetBanking.Infrastructure\\Migrations\\20250831100933_InitialCreate.cs",
@@ -322,35 +356,34 @@
               "RelativeToolTip": "InternetBanking.Infrastructure\\Migrations\\20250831100933_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T10:09:33.354Z"
+              "WhenOpened": "2025-08-31T10:09:33.354Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "20250831100845_RenameTables.cs",
               "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\Migrations\\20250831100845_RenameTables.cs",
               "RelativeDocumentMoniker": "InternetBanking.Infrastructure\\Migrations\\20250831100845_RenameTables.cs",
               "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\Migrations\\20250831100845_RenameTables.cs",
               "RelativeToolTip": "InternetBanking.Infrastructure\\Migrations\\20250831100845_RenameTables.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-31T10:08:45.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "20250831100128_RenameUsersTable.cs",
               "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\Migrations\\20250831100128_RenameUsersTable.cs",
               "RelativeDocumentMoniker": "InternetBanking.Infrastructure\\Migrations\\20250831100128_RenameUsersTable.cs",
               "ToolTip": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\Migrations\\20250831100128_RenameUsersTable.cs",
               "RelativeToolTip": "InternetBanking.Infrastructure\\Migrations\\20250831100128_RenameUsersTable.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-31T10:01:28.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\Data\\Program.cs",
               "RelativeDocumentMoniker": "Data\\Program.cs",
@@ -358,11 +391,12 @@
               "RelativeToolTip": "Data\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T12:33:55.049Z"
+              "WhenOpened": "2025-08-28T12:33:55.049Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "InternetBankingContext.cs",
               "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\InternetBanking.Infrastructure\\Data\\InternetBankingContext.cs",
               "RelativeDocumentMoniker": "InternetBanking.Infrastructure\\Data\\InternetBankingContext.cs",
@@ -370,11 +404,12 @@
               "RelativeToolTip": "InternetBanking.Infrastructure\\Data\\InternetBankingContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T12:34:10.079Z"
+              "WhenOpened": "2025-08-28T12:34:10.079Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\My-Git hub\\Internet-Banking-system\\Internet Banking System\\Data\\Class1.cs",
               "RelativeDocumentMoniker": "Data\\Class1.cs",
@@ -382,7 +417,8 @@
               "RelativeToolTip": "Data\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T12:33:57.525Z"
+              "WhenOpened": "2025-08-28T12:33:57.525Z",
+              "EditorCaption": ""
             }
           ]
         }

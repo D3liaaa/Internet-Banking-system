@@ -2,7 +2,7 @@
 using InternetBanking.Infrastructure.Abstract;
 using InternetBanking.Service.Abstract;
 
-namespace InternetBanking.Service.implementation
+namespace InternetBanking.Service.Implementation
 {
     public class AccountService:IAccountService
     {
@@ -21,6 +21,8 @@ namespace InternetBanking.Service.implementation
         public async Task CloseAsync(int accountId, CancellationToken ct = default)
         {
             var account = await _accountRepository.GetByIdAsync(accountId, ct);
+            if (account == null)
+                throw new KeyNotFoundException("Account not found.");
             if (account.Balance != 0)
                 throw new InvalidOperationException("Account balance must be zero before closing.");
             account.IsActive = false;

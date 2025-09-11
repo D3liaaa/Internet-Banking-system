@@ -18,10 +18,18 @@ namespace InternetBanking.Infrastructure.Repositories
         {
             _userSet = context.Set<User>();
         }
+
+        public async Task<User?> GetByIdAsync(string id, CancellationToken ct = default)
+        {
+            return await _userSet
+                .Include(u => u.Accounts)
+                .AsNoTracking()
+                .FirstOrDefaultAsync(u => u.Id == id, ct);
+        }
         #endregion
 
         #region HandleFunctions
-        public async Task<User?> GetByUsernameAsync(string username)
+        public async Task<User?> GetByUsernameAsync(string username,CancellationToken ct)
         {
             return await _userSet
                          .Include(u => u.Accounts) 

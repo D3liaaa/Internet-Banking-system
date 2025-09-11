@@ -1,5 +1,4 @@
-﻿
-using Internet_Banking_System.Entites;
+﻿using Internet_Banking_System.Entites;
 
 namespace InternetBanking.Service.Abstract
 {

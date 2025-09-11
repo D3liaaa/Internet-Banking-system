@@ -6,7 +6,7 @@ namespace InternetBanking.Infrastructure.InfrastructureBase
     public interface IGenericRepository<T> where T : class
     {
         // Get all entities
-        Task<IEnumerable<T>> GetAllAsync();
+        Task<IEnumerable<T>> GetAllAsync(CancellationToken ct);
 
         // Get an entity by its ID
         Task<T> GetByIdAsync(int id, CancellationToken ct);
@@ -18,7 +18,7 @@ namespace InternetBanking.Infrastructure.InfrastructureBase
         Task UpdateAsync(T entity, CancellationToken ct);
 
         // Delete an entity
-        Task DeleteAsync(T entity);
+        Task DeleteAsync(T entity, CancellationToken ct);
 
         Task DeleteRangeAsync(ICollection<T> entities);
 

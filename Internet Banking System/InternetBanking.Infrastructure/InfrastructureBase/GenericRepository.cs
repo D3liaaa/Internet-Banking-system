@@ -24,14 +24,17 @@ namespace InternetBanking.Infrastructure.InfrastructureBase
         #region handeFunctions
 
         // Methods for single entity operations
-        public virtual async Task<IEnumerable<T>> GetAllAsync()
+        public virtual async Task<IEnumerable<T>> GetAllAsync(CancellationToken ct)
         {
             return await _context.Set<T>().AsNoTracking().ToListAsync();
         }
 
         public virtual async Task<T> GetByIdAsync(int id, CancellationToken ct)
         {
-            return await _context.Set<T>().FindAsync(id);
+            var entity= await _context.Set<T>().FindAsync(id,ct);
+            if (entity == null)
+                throw new KeyNotFoundException($"{typeof(T).Name} with id {id} not found.");
+            return entity;
         }
 
         public virtual async Task AddAsync(T entity, CancellationToken ct)
@@ -46,10 +49,10 @@ namespace InternetBanking.Infrastructure.InfrastructureBase
             await _context.SaveChangesAsync(ct);
         }
 
-        public virtual async Task DeleteAsync(T entity)
+        public virtual async Task DeleteAsync(T entity,CancellationToken ct)
         {
             _context.Set<T>().Remove(entity);
-            await _context.SaveChangesAsync();
+            await _context.SaveChangesAsync(ct);
         }
 
         // Methods for bulk operations

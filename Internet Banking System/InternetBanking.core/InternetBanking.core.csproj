@@ -12,4 +12,9 @@
     <ProjectReference Include="..\InternetBanking.Service\InternetBanking.Service.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Features\Transaction\" />
+    <Folder Include="Features\Account\" />
+  </ItemGroup>
+
 </Project>
